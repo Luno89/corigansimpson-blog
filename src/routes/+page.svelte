@@ -8,7 +8,7 @@
 </svelte:head>
 
 <section>
-	<h1>
+	<h1 class="test-3xl font-bold underline">
 		<span class="welcome">
 			<picture>
 				<source srcset="svelte-welcome.webp" type="image/webp" />
